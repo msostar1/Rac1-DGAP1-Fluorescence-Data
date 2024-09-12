@@ -1,4 +1,4 @@
-In the Supporting Information, we include MATLAB codes and accompanying MATLAB data files (Rac1-DGAP1 Fluorescence Data) that enable the reproduction of the results and images presented in this manuscript. Additionally, we supply movies and microscopy files used for generating Figures 1, 2, S1, S2 and S7.
+In the Supporting Information, we include MATLAB codes and accompanying MATLAB data files (Rac1-DGAP1 Fluorescence Data) that enable the reproduction of the results and images presented in this manuscript. Additionally, we supply movies and microscopy files (along with raw data) used for generating Figures 1, 2, S1, S2 and S7.
 Also, we supply the Supporting Information files S1-S7.
 
 Rac1-DGAP1 Fluorescence Dataset consists of MATLAB data files obtained by analyzing Rac1* and DGAP1# fluorescence data using Quimp software. Each file corresponds to the analysis of an individual cell. The files are organized into three separate folders: 
