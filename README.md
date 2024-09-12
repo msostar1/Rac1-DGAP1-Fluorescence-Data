@@ -1,11 +1,12 @@
-In the supplementary materials, we include MATLAB codes and accompanying MATLAB data files (Rac1-DGAP1 Fluorescence Data) that enable the reproduction of the results and images presented in this manuscript. Additionally, we supply movies and microscopy files used for generating Figures 1, 2, S1, S2 and S7.
+In the Supporting Information, we include MATLAB codes and accompanying MATLAB data files (Rac1-DGAP1 Fluorescence Data) that enable the reproduction of the results and images presented in this manuscript. Additionally, we supply movies and microscopy files used for generating Figures 1, 2, S1, S2 and S7.
+Also, we supply the Supporting Information files S1-S7.
 
 Rac1-DGAP1 Fluorescence Dataset consists of MATLAB data files obtained by analyzing Rac1* and DGAP1# fluorescence data using Quimp software. Each file corresponds to the analysis of an individual cell. The files are organized into three separate folders: 
 1. rot_osc_ordered: for cells that exhibited rotating and oscillating patterns,
 2. pol_ordered: for cells with stationary (polar) patterns,
 3. random: for cells that did not exhibit any particular pattern.
 
-Below is a concise description of the codes provided:
+In the following, a concise description of the MATLAB codes is provided:
 
 **model_FDM_1D.m**
 
