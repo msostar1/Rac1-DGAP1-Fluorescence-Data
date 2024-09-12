@@ -7,6 +7,7 @@ Rac1-DGAP1 Fluorescence Dataset consists of MATLAB data files obtained by analyz
 
 Below is a concise description of the codes provided:
 **model_FDM_1D.m**
+
 Solves a set of partial differential equations (PDEs) by discretizing the spatial domain into 100 equally spaced points. The results include kymographs for all seven dependent variables, an autocorrelogram for R_T (generated using the function autocorrelogramFunction.m, which is provided as a separate file), and the phase portrait showing the relationship between membrane-bound Rac1 and DGAP1. Additionally, this code can also be used to generate Figures 4A, 4B, 4C, and the right part of Fig5A.
 **model_FDM_2D.m**
 Two-dimensional version of the finite difference code used in model_FDM_1D.m. This code solves the set of equations corresponding to cycle I in the model, using a disk as the spatial domain. It can be used to generate Fig9C.
