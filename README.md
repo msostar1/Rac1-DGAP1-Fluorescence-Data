@@ -27,6 +27,7 @@ S9 Movie. Representative stationary monopoles out of phase. Rac1*-enriched domai
 S10 Movie. Representative stationary monopoles in phase. Rac1*-enriched and DGAP1-enriched domains are co-localized, maintaining their position on the cell membrane (corresponds to Fig 2C).
 
 
+
 Folder “Supplementary Figures”
 
 S1 Fig. Representative bipolar patterns of cortical domains enriched in Rac1*. 
@@ -42,6 +43,7 @@ S5 Fig. Effect of circumference size on pattern formation.
 S6 Figure. Representative power spectral density of the Rac1 activity.
 
 S7 Fig. Monopolar patterns of Rac1T in DGAP1/GAPA knock-out cells. 
+
 
 Folder “Matlab Codes” 
 
@@ -79,6 +81,7 @@ This MATLAB code analyzes the noise profile of YFP intensity data corresponding 
 crosscorrelation_Fig2D_Fig2E.m
 
 This MATLAB code processes fluorescence data from YFP and mRFP channels corresponding to Rac1* and DGAP1# signals, respectively. It interpolates and smooths the data, then calculates the Pearson correlation coefficients for the first 120 seconds of activity across multiple cells. The results for each cell are stored, and a box plot of the Pearson correlation coefficients is generated to visualize the data (Fig2D). A slight modification can be used to generate Fig2E.
+
 
 Folder “Matlab Data”: Data obtained from the QUIMP analysis of the cell outline fluorescence intensity used as the input for MATLAB routines to generate Figures 4, 5, 6, S3 and S4.
 
