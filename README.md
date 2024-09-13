@@ -2,7 +2,7 @@ Oscillatory dynamics of Rac1 activity in Dictyostelium discoideum amoebae
 
 Authors: Marko Šoštar, Maja Marinović, Vedrana Filić, Nenad Pavin and Igor Weber
 
-Supporting information
+**Supporting information**
 
 Folder “Movies”
 
