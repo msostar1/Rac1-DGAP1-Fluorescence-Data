@@ -3,17 +3,29 @@ Oscillatory dynamics of Rac1 activity in Dictyostelium discoideum amoebae
 Authors: Marko Šoštar, Maja Marinović, Vedrana Filić, Nenad Pavin and Igor Weber
 
 Supporting information
+
 Folder “Movies”
+
 S1 Movie. Representative rotating monopole. A Rac1*-enriched domain travels along the cell membrane (corresponds to Fig 1A).
+
 S2 Movie. Representative rotating dipole. Two distinct Rac1*-enriched domains travel along the cell membrane (corresponds to S1 Fig A).
+
 S3 Movie. Representative oscillating monopole. A Rac1*-enriched domain periodically relocates from one side of the cell to the opposite side (corresponds to Fig 1B).
+
 S4 Movie. Representative oscillating dipole. Two distinct Rac1*-enriched domains periodically undergo 90-degree orientation shifts (corresponds to S1 Fig B).
+
 S5 Movie. Representative stationary monopole. A Rac1*-enriched domain remains on one side of a migrating cell (corresponds to Fig 1C).
+
 S6 Movie. Representative stationary dipole. Two distinct Rac1*-enriched domains located on opposite sides of the cell maintain their positions (corresponds to S1 Fig C).
+
 S7 Movie. Representative rotating monopoles. Rac1* and DGAP1-enriched domains, located on opposite sides of the cell, travel along the cell membrane (corresponds to Fig 2A). 
+
 S8 Movie. Representative oscillating dipoles. Two distinct Rac1*-enriched domains and oppositely localized DGAP1-enriched domains periodically shift their orientation by 90 degrees (corresponds to S2 Fig).
+
 S9 Movie. Representative stationary monopoles out of phase. Rac1*-enriched domain and oppositely localized DGAP1-enriched domain maintain their positions (corresponds to Fig 2B).
+
 S10 Movie. Representative stationary monopoles in phase. Rac1*-enriched and DGAP1-enriched domains are co-localized, maintaining their position on the cell membrane (corresponds to Fig 2C).
+
 
 Folder “Supplementary Figures”
 S1 Fig. Representative bipolar patterns of cortical domains enriched in Rac1*. 
